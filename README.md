@@ -1,6 +1,12 @@
 # 360downloader
 A desktop GUI application that downloads 360-degree panorama images from Google Maps, stitches the tiles into a single equirectangular image, and saves it locally.
 
+## How to use the app
+
+- you need Python3 to run this application
+- install dependencies mentioned in requirements.txt
+- start the application with "python3 main.py"
+
 ## Technology Stack
 
 - **Language:** Python 3
